@@ -1,1 +1,4 @@
 /data
+/features/test/*
+/features/train/*
+/trained_models/c/*
