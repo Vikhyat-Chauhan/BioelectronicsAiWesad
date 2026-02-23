@@ -1,4 +1,39 @@
-/data
+# Data
+/data/
+
+# Extracted features
 /features/test/*
 /features/train/*
-/trained_models/c/*
+
+# Trained models
+/trained_models/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
